@@ -1,0 +1,135 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Joe Tribbiaani",
+      "speciality": [
+        "Dental",
+        "Eye",
+        "Skin"
+      ],
+      "duration": "9am - 1pm",
+      "cost": 5000,
+      "slots": [
+        "9.00-9.20",
+        "9.30-9.50",
+        "10.00-10.20",
+        "10.30-10.50",
+        "11.00-11.30",
+        "11.30-11.50",
+        "12.00-12.20",
+        "12.30-12.50"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Drek Dremore",
+      "speciality": [
+        "Brain",
+        "Neuro"
+      ],
+      "duration": "11am - 3pm",
+      "cost": 50000,
+      "slots": [
+        "11.00-11.30",
+        "11.30-11.50",
+        "12.00-12.20",
+        "12.30-12.50",
+        "1.00-1.20",
+        "1.30-1.50",
+        "2.00-2.20",
+        "2.30-2.50"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Remo D'Suoza",
+      "speciality": [
+        "Liver",
+        "Heart"
+      ],
+      "duration": "10am - 12pm",
+      "cost": 45000,
+      "slots": [
+        "10.00-10.20",
+        "10.30-10.50",
+        "11.00-11.30",
+        "11.30-11.50"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Cristan Josifar",
+      "speciality": [
+        "Fever",
+        "Cold",
+        "Allergies"
+      ],
+      "duration": "10am - 12pm",
+      "cost": 1000,
+      "slots": [
+        "10.00-10.20",
+        "10.30-10.50",
+        "11.00-11.30",
+        "11.30-11.50"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Petter Mary",
+      "speciality": [
+        "cancer"
+      ],
+      "duration": "10am - 1pm",
+      "cost": 65000,
+      "slots": [
+        "10.00-10.20",
+        "10.30-10.50",
+        "11.00-11.30",
+        "11.30-11.50"
+      ]
+    }
+  ],
+  "appoitments": [
+    {
+      "doctor_id": 5,
+      "Name": "Petter Mary",
+      "Date": "Wed Apr 13 2022",
+      "Slot": "10.00-10.20",
+      "Cause": "cancer",
+      "id": 1
+    },
+    {
+      "doctor_id": 5,
+      "Name": "Petter Mary",
+      "Date": "Wed Apr 13 2022",
+      "Slot": "10.30-10.50",
+      "Cause": "cancer",
+      "id": 2
+    },
+    {
+      "doctor_id": 5,
+      "Name": "Petter Mary",
+      "Date": "Wed Apr 13 2022",
+      "Slot": "11.00-11.30",
+      "Cause": "cancer",
+      "id": 3
+    },
+    {
+      "doctor_id": 5,
+      "Name": "Petter Mary",
+      "Date": "Wed Apr 13 2022",
+      "Slot": "11.30-11.50",
+      "Cause": "cancer",
+      "id": 4
+    },
+    {
+      "doctor_id": 1,
+      "Name": "Joe Tribbiaani",
+      "Date": "Wed Apr 13 2022",
+      "Slot": "9.30-9.50",
+      "Cause": "Dental",
+      "id": 5
+    }
+  ]
+}

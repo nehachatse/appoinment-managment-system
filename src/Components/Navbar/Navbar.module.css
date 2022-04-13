@@ -1,0 +1,8 @@
+*{
+    font-family: 'PT Sans', sans-serif;
+}
+.cont{
+    margin: 0;
+    height: 100px;
+    display: flex;
+}

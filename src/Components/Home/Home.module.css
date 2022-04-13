@@ -1,0 +1,14 @@
+.cont h2{
+    color: rgb(0,124,157);
+    font-size: 2.3rem;
+}
+.cont div{
+    width: 75%;
+    margin: auto;
+    text-align: justify;
+}
+
+.cont div li{
+    margin: 1rem;
+    font-size: 1.1rem;
+}
